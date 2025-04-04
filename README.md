@@ -1,3 +1,4 @@
+![Screenshot 2025-04-03 055143](https://github.com/user-attachments/assets/7f11297b-9608-4cbb-9263-943b83a5098a)
 # Norminal-GDP-growth-rate
 # Nominal GDP Growth Rate Analysis (Nigeria - 2024)  
 
